@@ -4,7 +4,7 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "deploy": "gh-pages -d calculator"
+    "deploy": "gh-pages -d CALCULATOR"
   },
   "repository": {
     "type": "git",
@@ -13,8 +13,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-   "homepage":"https://github.com/noelm428/calculator",
-  
+  "homepage": "https://github.com/noelm428/calculator#readme",
+  "bugs": {
+    "url": "https://github.com/noelm428/calculator/issues"
+  },
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
