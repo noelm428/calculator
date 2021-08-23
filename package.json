@@ -1,0 +1,24 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d calculator"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noelm428/calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+   "homepage":"https://github.com/noelm428/calculator"
+  "bugs": {
+    "url": "https://github.com/noelm428/calculator/issues"
+  },
+  "homepage": "https://github.com/noelm428/calculator#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
